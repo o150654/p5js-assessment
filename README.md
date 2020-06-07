@@ -145,5 +145,3 @@ License under Creative Commons Attribution ShareAlike
 
 https://creativecommons.org/licenses/by-sa/3.0/
 
-
-[![HitCount](http://hits.dwyl.com/o150654/Computing.svg)](http://hits.dwyl.com/o150654/Computing)
